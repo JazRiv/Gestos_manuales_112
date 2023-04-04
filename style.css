@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(231, 104, 104);
+    color: #fff;
+}
+
+#camara, #resultado{
+    border: 5px dotted #114fac;
+    width: 350px;
+    height: 300px;
+    box-sizing: content-box;
+}
+
+h2, label{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.btn{
+    color: #fff;
+    border-color: #fff;
+    background-color: #548ce0;
+    font-family: fantasy;
+}
+
+#sig_name, #signal{
+    font-size: 80px;
+}
